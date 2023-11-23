@@ -25,7 +25,7 @@ I'm passionate about automating and streamlining processes to enhance efficiency
 - **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
 
 ## Certifications
-https://github.com/pranav278/pranav278/blob/main/IMG_20231123_234729.jpg
+<img src="https://github.com/pranav278/pranav278/blob/main/IMG_20231123_234729.jpg" width="700" height="250">
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/connect-pranav-nalawade
