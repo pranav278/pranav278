@@ -29,8 +29,8 @@ I'm passionate about automating and streamlining processes to enhance efficiency
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
-- Blog: [Your Blog URL]
+- LinkedIn: https://www.linkedin.com/in/connect-pranav-nalawade
+- Twitter: https://x.com/P_2899?t=kI2bbKI5cp5nO8WYXLmDRg&s=09
+- Blog: @pranav2899
 
 Feel free to connect and collaborate! 🚀
