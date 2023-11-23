@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Pranav, a DevOps Engineer at Tata Consultancy Services, Pune.
 
 ## About Me
-I'm passionate about automating and streamlining processes to enhance efficiency and reliability in software development. Currently, I'm working on a two-tier web app, where I focus on optimizing deployment pipelines and ensuring smooth collaboration between development and operations.
+``
+I'm passionate about automating and streamlining processes to enhance efficiency and reliability in software development.Currently, I'm working on a two-tier web app, where I focus on optimizing deployment pipelines and ensuring smooth collaboration between development and operations.
+``
 
 ## Current Focus
 - 🔭 I’m currently working on a two-tier web app.
@@ -25,6 +27,7 @@ I'm passionate about automating and streamlining processes to enhance efficiency
 - **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
 
 ## Certifications
+<p style="color:red">this is my.</p>
 <img src="https://github.com/pranav278/pranav278/blob/main/IMG_20231123_234729.jpg" width="700" height="250">
 ## Connect with Me
 
